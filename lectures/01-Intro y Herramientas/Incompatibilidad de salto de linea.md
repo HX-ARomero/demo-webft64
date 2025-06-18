@@ -1,5 +1,7 @@
 # Incompatibilidad de salto de línea
 
+[Volver a Inicio](../../README.md)
+
 La incompatibilidad de salto de línea (caracter de fin de línea) entre Windows y Linux es un problema común al trabajar con Git y proyectos colaborativos.
 
 Es un tema avanzado, por lo que sólo lo incluyo aquí para que lo tengas como referencia en un futuro.
@@ -68,3 +70,5 @@ Usa .gitattributes para mantener consistencia entre desarrolladores.
 Configura core.autocrlf adecuadamente según tu sistema.
 
 Usa un editor como VS Code, que puede mostrar y convertir fácilmente los finales de línea (LF / CRLF abajo a la derecha de cada archivo que se encuentra en primer plano).
+
+[Volver a Inicio](../../README.md)
