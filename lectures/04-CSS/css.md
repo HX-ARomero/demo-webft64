@@ -1,5 +1,7 @@
 # 📚 RESET & NORMALIZE
 
+[Volver a Inicio](../../README.md)
+
 - El archivo `reset.css` (o _reset stylesheet_) tiene como **función principal eliminar o "resetear" los estilos predeterminados** que los navegadores aplican por defecto a los elementos HTML.
 - Cada navegador tiene su propia hoja de estilos por defecto (por ejemplo, márgenes en el `<body>`, tamaño y estilo de encabezados, etc.). Esto puede causar **inconsistencias en el diseño** de una página web dependiendo del navegador usado.
 - El `reset.css` busca **nivelar esas diferencias** para que todos los elementos partan desde una base común de estilos.
@@ -74,3 +76,5 @@ Podés usar herramientas de desarrollador del navegador (clic derecho → "Inspe
 # 📚 FLEXBOX
 
 <img src="../../assets/FlexBox.png" alt="Flexbox">
+
+[Volver a Inicio](../../README.md)

@@ -20,3 +20,11 @@
 - [Figma](./lectures/03-HTML/Figma.md)
 - [Etiquetas HTML](./lectures/03-HTML/Etiquetas%20HTML.md)
 
+## 04- CSS
+
+- [CSS](./lectures/04-CSS/css.md)
+
+## 05- JavaScript
+
+- [JavaScript](./lectures/05-JavaScript/JavaScript.md)
+- [Repaso](./lectures/05-Repaso/Repaso.md)
