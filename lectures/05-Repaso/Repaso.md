@@ -17,7 +17,7 @@
 5. **Compatible con el DOM**
    - Permite manipular y actualizar el contenido de páginas web dinámicamente.
 6. **Ecosistema amplio**  
-   Posee una gran comunidad, miles de librerías (como React, Vue, Node.js), y se usa tanto en frontend como en backend.
+   Posee una gran comunidad, miles de librerías (como React, Vue, express, etc), y se usa tanto en frontend como en backend.
 7. Las funciones son _first-class citizens_ (ciudadanas de primera clase)
    - Significa que las funciones pueden ser:
      1. **Asignadas a variables**

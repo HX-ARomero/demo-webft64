@@ -1,5 +1,9 @@
 # Cohorte WebFT-64
 
+## Extras
+
+- [Simulacro de Checkpoint](./Extras/Practica_CP.md)
+
 ## 01- Introducción y Herramientas
 
 - [01-Node](./lectures/01-Intro%20y%20Herramientas/01-Node.md)
@@ -28,3 +32,7 @@
 
 - [JavaScript](./lectures/05-JavaScript/JavaScript.md)
 - [Repaso](./lectures/05-Repaso/Repaso.md)
+
+## 07- Arrays
+
+- [Métodos de Arrays](./lectures/07-Arrays/Arrays-metodos.md)
