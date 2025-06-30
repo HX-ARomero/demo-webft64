@@ -6,6 +6,15 @@
 - [Datos sobre Programación](./Extras/datos.md)
 - [Hábitos Saludables](./Extras/habitos.md)
 - [Visual Studio Code](./Extras//vsc.md)
+- Aprender a escribir en teclado con todos los dedos (Mecanografía)
+  - [El mundo de la Mecanografía](https://www.edclub.com/es/library/el-mundo-de-la-mecanograf%C3%ADa)
+  - [Aprende Mecanografía](https://www.mecanografia-online.com/)
+  - [Club de Mecanografía](https://www-typingclub-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+
+## Documentación
+
+- [MDN - Documentación de JavaScript](https://developer.mozilla.org/es/docs/Learn_web_development)
+- [W3C School - JavaScript](https://www-w3schools-com.translate.goog/js/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
 ## 01- Introducción y Herramientas
 
