@@ -3,6 +3,9 @@
 ## Extras
 
 - [Simulacro de Checkpoint](./Extras/Practica_CP.md)
+- [Datos sobre Programación](./Extras/datos.md)
+- [Hábitos Saludables](./Extras/habitos.md)
+- [Visual Studio Code](./Extras//vsc.md)
 
 ## 01- Introducción y Herramientas
 
