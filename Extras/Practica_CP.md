@@ -400,7 +400,7 @@ C) 5
 
 D) 8
 
-<details><summary>Ver respuesta</summary> ✅ **Respuesta correcta:** B </details>
+<details><summary>Ver respuesta</summary> ✅ **Respuesta correcta:** C </details>
 
 ## 31. ¿Qué devuelve esta función?
 ```js
